@@ -30,9 +30,9 @@ https://storage.googleapis.com/open_source_datasets/ShelfImages.tar.gz
 
 # Code Files Uploaded
 
-- Training Colab Notebook - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17rd4hmXe2-A2W6btvvDTMc83SDR5YMZ5?usp=sharing#scrollTo=SjNFUIVfYURL){:target="_blank"}
+- Training Colab Notebook - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17rd4hmXe2-A2W6btvvDTMc83SDR5YMZ5?usp=sharing#scrollTo=SjNFUIVfYURL target="_blank)
 
-- Prediction Code Notebook - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MvyMbrrokyW4yTU__x3408kCm_bpvmIp?usp=sharing){:target="_blank"}
+- Prediction Code Notebook - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MvyMbrrokyW4yTU__x3408kCm_bpvmIp?usp=sharing target="_blank)
 
 
 # Results
