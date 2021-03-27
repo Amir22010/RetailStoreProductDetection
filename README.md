@@ -1,4 +1,4 @@
-# RetailStoreProductDetection
+# Deep Learning Challenge - RetailStoreProductDetection
 
 # Problem Overview
 FMCG(Fast-Moving Consumer Goods) brands require insights into
@@ -48,3 +48,6 @@ https://storage.googleapis.com/open_source_datasets/ShelfImages.tar.gz
 ```
 
 # Test Images
+
+![Result1](https://raw.githubusercontent.com/Amir22010/RetailStoreProductDetection/main/images/C1_P02_N2_S3_1.JPG)
+![Result2](https://raw.githubusercontent.com/Amir22010/RetailStoreProductDetection/main/images/C1_P05_N2_S4_2.JPG)
