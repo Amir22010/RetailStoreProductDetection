@@ -1,4 +1,4 @@
-# Deep Learning Challenge - RetailStoreProductDetection
+# Deep Learning Challenge May 18, 2020 - RetailStoreProductDetection
 
 # Problem Overview
 FMCG(Fast-Moving Consumer Goods) brands require insights into
